@@ -1,5 +1,7 @@
 # Minceraft
 
+![image of Minceraft programming running](C:\Users\alexj\Documents\School\Computer Science\Minceraft\resources\Minceraft.PNG)
+
 A Minecraft clone built with LWJGL 2.
 
 Based on Reon Fourie's YouTube [series](https://www.youtube.com/playlist?list=PL80Zqpd23vJfyWQi-8FKDbeO_ZQamLKJL).
