@@ -1,6 +1,6 @@
 # Minceraft
 
-![image of Minceraft programming running](C:\Users\alexj\Documents\School\Computer Science\Minceraft\resources\Minceraft.PNG)
+![image of Minceraft programming running](resources/Minceraft.PNG)
 
 A Minecraft clone built with LWJGL 2.
 
